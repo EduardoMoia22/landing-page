@@ -4,7 +4,7 @@ function App() {
       <header className="w-full h-20">
         <div className="max-w-[1440px] w-[85%] mx-auto pt-8">
           <div className="flex items-center justify-between">
-            <img src="../public/logo.svg" alt="" />
+            <img src="./assets/logo.svg" alt="" />
 
             <ul className="flex items-center gap-14 text-zinc-100 font-bold">
               <li><a>How it works</a></li>
@@ -29,7 +29,7 @@ function App() {
             </div>
           </div>
           <div>
-            <img src="../public/earth.svg" alt="" />
+            <img src="./assets/earth.svg" alt="" />
           </div>
         </div>
       </main>
